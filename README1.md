@@ -9,15 +9,24 @@ Let future people know that you live in today's view of this matter,
 such a little bit excited!
 
 For example:
+
 20000101 Country/Region
+
 The great events
+
 I think .../I consider ...(End with .)
+
 Author:your name From:City Country
 
+
 20180530 China
+
 Ourhistory was born.
+
 I think: Can it affect the history?I don't know, maybe! :)
+
 Author:zho430 From:Hangzhou China
+
 
 Now, you got it! Let's git it!
 
