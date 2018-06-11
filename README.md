@@ -1,60 +1,23 @@
 ﻿# ourhistory
-
-Let's write down the great events of history! Practice while learning GIT.
-No matter what your race or faith,
-you can write down what you know about important things 
-that may affect the world and send them to us, 
-just in accordance with the agreed format.
-Let future people know that you live in today's view of this matter, 
-such a little bit excited!
-
-For example:
-20000101	Country/Region
-			The great events
-			I think .../I consider ...(End with .)
-			Author:your name	From:City Country
-
-20180530	China
-			Ourhistory was born.
-			I think: Can it affect the history?I don't know, maybe! :)
-			Author:zho430	From:Hangzhou China
-
+Let's use git to document important historical events and your views!The goal is to learn git while practicing it.
+Recording history is not necessarily a privilege for professionals, you can too!Push it to us in a specific format so that future people know what you think about these things in the present.Isn't it a little exciting?
 Now, you got it! Let's git it!
 
 ————————————————————————————————————————————————————
 
 # ourhistory（我们的历史）
 
-让我们用git来记录我们经历的重要历史事件吧！边学习git，边做点什么。
-不论你属于什么种族或信仰什么，你都能记下你知道的重要历史事件和你的观点，然后按指定格式push给我们。
-记录历史不一定要司马迁，每个人都可以，让未来的人们知道活在当下的你对这些事的观点和看法。
+让我们用git来记录重要历史事件和你的看法吧！目的是学习git的同时顺便练习一下。
+记录历史不一定是司马迁的事，你也可以！按指定格式push给我们吧，让未来的人们知道活在当下的你对这些事情的看法。
 想想是不是有点小激动呢！
-
-指定格式：（括号内的内容您不需要写）
-201805030	中国（事件发生地，国家或区域，如中国、亚洲）
-			ourhistory这个想法诞生了，并出现在了github网站上。
-			我想：它会影响历史吗？谁知道呢！
-			作者：zho430	来自：中国杭州
-
-按这个格式开始做吧！
 
 ————————————————————————————————————————————————————
 
 # уурхистори (наша история)
 
-Давайте используем git, чтобы записывать важные исторические события, которые мы пережили!Поучись, и сделай что-нибудь.
-Независимо от того, что вы принадлежите к расовым или вероисповеданиям, вы можете написать о важном историческом событии и о вашем
-Точка зрения, а затем нажмите на нас.
-История не нуждается в Том, чтобы быть в курсе событий, и каждый может, чтобы будущие люди знали о Том, как жить в настоящем
-Все эти взгляды и взгляды, подумайте, не слишком ли это возбуждает!
-
-Формат.
-201805030	китая (события, государства или регионы, такие как Китай, Азия)
-			У уурхистори родилась идея, и она появилась на сайте gitub.
-			Я думаю, это повлияет на историю?Кто знает!
-			Автор: zho430	Китай, ханчжоу
-
-Начинай делать это в этом формате!
+Давайте используем git, чтобы записать важные исторические события и ваше мнение!Цель заключается в Том, чтобы изучить git, и, кстати, попрактиковаться.
+Запись истории не обязательно должна быть привилегией профессионалов, и вы можете!Дай нам в назначенном формате, пусть будущие люди узнают, что ты думаешь о таких вещах.
+Это немного возбуждает!
 
 ————————————————————————————————————————————————————
 
