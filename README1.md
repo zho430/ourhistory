@@ -9,15 +9,15 @@ Let future people know that you live in today's view of this matter,
 such a little bit excited!
 
 For example:
-20000101	Country/Region
-			The great events
-			I think .../I consider ...(End with .)
-			Author:your name	From:City Country
+20000101 Country/Region
+The great events
+I think .../I consider ...(End with .)
+Author:your name From:City Country
 
-20180530	China
-			Ourhistory was born.
-			I think: Can it affect the history?I don't know, maybe! :)
-			Author:zho430	From:Hangzhou China
+20180530 China
+Ourhistory was born.
+I think: Can it affect the history?I don't know, maybe! :)
+Author:zho430 From:Hangzhou China
 
 Now, you got it! Let's git it!
 
@@ -31,10 +31,10 @@ Now, you got it! Let's git it!
 想想是不是有点小激动呢！
 
 指定格式：（括号内的内容您不需要写）
-201805030	中国（事件发生地，国家或区域，如中国、亚洲）
-			ourhistory这个想法诞生了，并出现在了github网站上。
-			我想：它会影响历史吗？谁知道呢！
-			作者：zho430	来自：中国杭州
+201805030 中国（事件发生地，国家或区域，如中国、亚洲）
+ourhistory这个想法诞生了，并出现在了github网站上。
+我想：它会影响历史吗？谁知道呢！
+作者：zho430 来自：中国杭州
 
 按这个格式开始做吧！
 
